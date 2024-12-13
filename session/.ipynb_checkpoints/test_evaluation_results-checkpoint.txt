@@ -1,0 +1,4 @@
+Test Loss: 0.4254
+Balanced Accuracy: 0.8927
+ROC-AUC: 0.9247
+Average Precision: 0.9047
